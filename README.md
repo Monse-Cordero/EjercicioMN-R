@@ -1,5 +1,4 @@
-# PortafolioMN-R
-Aquí estarán practicas, ejercicios y tareas del curso de métodos númerico
+
 # Portafolio MN-R
 Aquí estarán prácticas, ejercicios y tareas del curso de métodos numéricos.
 
